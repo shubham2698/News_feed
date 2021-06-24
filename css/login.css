@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+form{
+
+	font-family: 'Karla', sans-serif;
+	font-size: 20px;
+}
+
+.container{
+
+	padding: 10%;
+}
+.two{
+
+	padding-top: 0%;
+}
+body{
+
+	background: linear-gradient(to top left, #33ccff 0%, #ff99cc 100%);
+	background-repeat: no-repeat;
+	background-size: fill;
+}
